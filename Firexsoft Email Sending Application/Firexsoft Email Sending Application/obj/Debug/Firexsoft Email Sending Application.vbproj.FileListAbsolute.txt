@@ -1,0 +1,23 @@
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.exe.config
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.exe
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.pdb
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.xml
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft_Email_Sending_Application.Form1.resources
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft_Email_Sending_Application.Resources.resources
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.vbproj.GenerateResource.Cache
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.exe
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.xml
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.pdb
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.vbprojResolveAssemblyReference.cache
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft_Email_Sending_Application.Form1.resources
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft_Email_Sending_Application.Form2.resources
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft_Email_Sending_Application.Resources.resources
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.vbproj.GenerateResource.Cache
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.vbproj.CoreCompileInputs.cache
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.xml
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.pdb
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.exe.config
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.exe
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.pdb
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\bin\Debug\Firexsoft Email Sending Application.xml
+C:\Users\firex\Desktop\Firexsoft Email Sending Application\Firexsoft Email Sending Application\Firexsoft Email Sending Application\obj\Debug\Firexsoft Email Sending Application.exe
